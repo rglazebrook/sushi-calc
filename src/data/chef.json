@@ -1,0 +1,28 @@
+{
+  "sessions": [
+    {
+      "startSpeed": 1800000,
+      "upgrades": [
+        { "gain": 54000, "cost": 72400000 },
+        { "gain": 56000, "cost": 75200000 },
+        { "gain": 57000, "cost": 78000000 },
+        { "gain": 58000, "cost": 80900000 },
+        { "gain": 60000, "cost": 83900000 }
+      ],
+      "endSpeed": 2000000
+    },
+    {
+      "upgradesBefore": 1,
+      "startSpeed": 2100000,
+      "upgrades": [
+        { "gain": 63000, "cost": 90100000 },
+        { "gain": 64000, "cost": 93400000 },
+        { "gain": 66000, "cost": 96800000 },
+        { "gain": 67000, "cost": 100300000 },
+        { "gain": 69000, "cost": 103800000 }
+      ],
+      "endSpeed": 2500000,
+      "next": { "gain": 70000, "cost": 107500000 }
+    }
+  ]
+}

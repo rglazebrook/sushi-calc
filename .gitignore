@@ -1,0 +1,7 @@
+node_modules/
+dist/
+# Your own numbers for the command-line tools; state.example.json is the published template.
+state.json
+
+# Local Claude Code config
+.claude/

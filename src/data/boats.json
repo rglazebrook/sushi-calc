@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Basic",
+    "outcomes": [{ "tier": 4, "chance": 75 }, { "tier": 5, "chance": 20 }, { "tier": 6, "chance": 5 }],
+    "costReadings": [{ "count": 497004, "cost": 5500000 }, { "count": 519738, "cost": 5800000 }]
+  },
+  {
+    "name": "Rare",
+    "outcomes": [{ "tier": 7, "chance": 75 }, { "tier": 8, "chance": 20 }, { "tier": 9, "chance": 5 }],
+    "costReadings": [{ "count": 497004, "cost": 168000000 }, { "count": 517551, "cost": 174000000 }]
+  },
+  {
+    "name": "Epic",
+    "outcomes": [{ "tier": 10, "chance": 75 }, { "tier": 11, "chance": 20 }, { "tier": 12, "chance": 5 }],
+    "costReadings": [{ "count": 497868, "cost": 5100000000 }]
+  },
+  {
+    "name": "Legendary",
+    "outcomes": [{ "tier": 13, "chance": 65 }, { "tier": 14, "chance": 25 }, { "tier": 15, "chance": 8 }, { "tier": 16, "chance": 2 }],
+    "costReadings": [{ "count": 517551, "cost": 230700000000 }, { "count": 519738, "cost": 231500000000 }]
+  },
+  {
+    "name": "Mythic",
+    "outcomes": [{ "tier": 17, "chance": 65 }, { "tier": 18, "chance": 25 }, { "tier": 19, "chance": 8 }, { "tier": 20, "chance": 2 }]
+  }
+]
