@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- A maki roll seen from above: nori wrap, rice, salmon and cucumber filling. -->
+  <circle cx="16" cy="16" r="15.5" fill="#1e3a2f"/>
+  <circle cx="16" cy="16" r="12.5" fill="#fbfaf5"/>
+  <g transform="translate(16 16) scale(1.3) translate(-16 -16)">
+    <path d="M10 16.5a6 6 0 0 1 6-6h1.5a4.5 4.5 0 0 1 4.5 4.5v1a5.5 5.5 0 0 1-5.5 5.5h-1A5.5 5.5 0 0 1 10 16.5z" fill="#f97350"/>
+    <path d="M12.2 13.6l7.6 5.2M14.6 11.6l6.4 4.4" stroke="#ffd2c2" stroke-width="1.1" stroke-linecap="round"/>
+    <circle cx="19.6" cy="13.4" r="2.3" fill="#4caf50"/>
+  </g>
+</svg>
