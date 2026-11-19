@@ -11,7 +11,7 @@
     "calc": "node src/cli.ts",
     "gamble": "node src/gamble-cli.ts",
     "typecheck": "tsc --noEmit",
-    "test": "node --test test/"
+    "test": "node --test \"test/*.test.ts\""
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.3.5",
